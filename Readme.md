@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](images/Banner.png)
+![Brown and Gray Simple Personal LinkedIn Banner](Images/Banner.png)
 
 Hello, I'm Nikhil. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
